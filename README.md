@@ -1,1 +1,1 @@
-# STA304-Paper-3
+# The projects are written in Rstudio.
